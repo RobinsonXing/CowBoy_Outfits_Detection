@@ -1,7 +1,9 @@
 *.csv
 *.json
+/dataset/images
 
 /__pycache__
 /wandb
 
 /inference
+/training
